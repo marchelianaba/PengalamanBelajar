@@ -1,1 +1,6 @@
-halo world
+hello dunia
+
+hello world.  
+**biodata**
+- Nama = marchelia naba
+- Umur = 20 tahun
